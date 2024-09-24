@@ -9,3 +9,7 @@
 ## Contact me:
 ### El equipo de Globant siempre se encuentra en la búsqueda de colaboradores y proyectos colaborativos
 ### Contacto: jorge.suaterna1@gmail.com
+
+## Technologies
+- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
+- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
