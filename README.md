@@ -9,7 +9,3 @@
 ## Contact me:
 ### El equipo de Globant siempre se encuentra en la búsqueda de colaboradores y proyectos colaborativos
 ### Contacto: jorge.suaterna1@gmail.com
-
-## Lenguaje
-Inglés, español, francés
-
